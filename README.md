@@ -12,6 +12,10 @@
 
 <img src="Abstract-Vortex.svg" align="right" width="300px" height="300px" />
 
-#### Give me a hello at [Linkedin](https://www.linkedin.com/in/matheus-schiffer-rossetto-4467b438/)
+#### Give me a hello [Linkedin](https://www.linkedin.com/in/matheus-schiffer-rossetto-4467b438/)
+
+#### Pay me a visit on [mschiffer.com]("https://www.mschiffer.com")
+
+### Much appreciated
 
 ## :us: :es: :brazil:
