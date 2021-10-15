@@ -20,4 +20,10 @@
 
 ##### Much appreciated
 
-## :us: :es: :brazil:
+## Languages:
+
+#### :brazil: - Fluent/Native
+
+#### :us: - Advanced/Conversational
+
+#### :es: - Intermediary/Conversational
