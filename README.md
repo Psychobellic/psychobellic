@@ -16,7 +16,7 @@
 
 #### Give me a hello [Linkedin](https://www.linkedin.com/in/matheus-schiffer-rossetto-4467b438/)
 
-#### Pay me a visit on [mschiffer.com]("https://www.mschiffer.com")
+#### Pay me a visit on [mschiffer.com](https://www.mschiffer.com)
 
 ##### Much appreciated
 
