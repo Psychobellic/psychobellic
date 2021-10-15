@@ -22,8 +22,8 @@
 
 ## Languages:
 
-#### :brazil: - Fluent/Native
+#### :brazil: - Brazilian Portuguese: Fluent/Native
 
-#### :us: - Advanced/Conversational
+#### :us: - English: Advanced/Conversational
 
-#### :es: - Intermediary/Conversational
+#### :es: - Spanish: Intermediary/Conversational
