@@ -14,9 +14,9 @@
 
 [<img src="Abstract-Vortex.svg" align="right" width="300px" height="300px" />](https://freesvg.org/abstract-vortex-33-variation-2)
 
-#### Give me a hello [Linkedin](https://www.linkedin.com/in/matheus-schiffer-rossetto-4467b438/)
+#### Give me a hello on, let's connect! [Linkedin](https://www.linkedin.com/in/matheus-schiffer-rossetto-4467b438/)
 
-#### Pay me a visit on [mschiffer.com](https://www.mschiffer.com)
+#### And pay me a visit on [mschiffer.com](https://www.mschiffer.com)
 
 ##### Much appreciated
 
