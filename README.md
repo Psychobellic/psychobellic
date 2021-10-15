@@ -12,7 +12,7 @@
 
 #### [![StackOverflow](https://img.shields.io/badge/StackOverflow-1-F27F33?logo=stackoverflow)](https://stackoverflow.com/users/11280354/psychobellic) [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Psychobellic/actions)
 
-<img src="Abstract-Vortex.svg" align="right" width="300px" height="300px" />
+[<img src="Abstract-Vortex.svg" align="right" width="300px" height="300px" />](https://freesvg.org/abstract-vortex-33-variation-2)
 
 #### Give me a hello [Linkedin](https://www.linkedin.com/in/matheus-schiffer-rossetto-4467b438/)
 
