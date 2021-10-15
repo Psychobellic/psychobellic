@@ -6,7 +6,7 @@
 
 #### :electron: - While looking for a job to gather experience, I'll be using https://mschiffer.com as a Portfolio, still under development.
 
-#### :shipit: - In this short period of time (10 months) I've done better than 58% of my peers in the test 'Building Web Applications with React', with a score of 162/300.
+#### :shipit: - In this short period of time (10 months) I've done better than 58% of my peers in the test ['Building Web Applications with React'](https://app.pluralsight.com/score/skill-assessment/react/summary?context=skills), with a score of 162/300. This test was recommended in the StackOverflow profile page.
 
 <img src="reactAssessment2.PNG" width="600" height="300" align="center" />
 
