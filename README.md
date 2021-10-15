@@ -6,4 +6,4 @@
 
 #### :electron: - While looking for a job to gather experience, I'll be using https://mschiffer.com as a Portfolio, still under development.
 
-#### [![StackOverflow]]
+#### [![StackOverflow](https://img.shields.io/badge/StackOverflow-1-F27F33?logo=stackoverflow)](https://stackoverflow.com/users/11280354/psychobellic)]
