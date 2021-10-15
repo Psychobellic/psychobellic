@@ -1,4 +1,6 @@
-<img src="MSlogo.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="MS Logo">
+<div padding="100px">
+  <img src="MSlogo.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="MS Logo"> 
+</div>
 
 <h2>Welcome</h2>
 
