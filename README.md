@@ -1,4 +1,6 @@
-# Welcome ## My name is **Matheus Schiffer**.
+# Welcome
+
+### My name is **Matheus Schiffer**.
 
 #### :octocat: - Studying and practicing **<img src="React.svg" width="48px" height="48px"/>[React](https://www.reactjs.org), <img src="next.svg" width="48px" height="48px" /> [Next.js](https://nextjs.org/), <img src="Typescript.svg" width="32px" height="32px" /> [TypeScript](https://www.typescriptlang.org/) and <img src="SassLogo.svg" width="32px" height="32px" /> [Sass](https://sass-lang.com/)** since january 2021.
 
