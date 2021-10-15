@@ -11,3 +11,5 @@
 <img src="reactAssessment2.PNG" width="600" height="300" align="center" />
 
 #### [![StackOverflow](https://img.shields.io/badge/StackOverflow-1-F27F33?logo=stackoverflow)](https://stackoverflow.com/users/11280354/psychobellic) [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Psychobellic/actions)
+
+#### Give me a hello at [[Linkedin](https://www.linkedin.com/in/matheus-schiffer-rossetto-4467b438/)]
