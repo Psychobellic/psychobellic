@@ -6,7 +6,7 @@
 
 #### :shipit: - In this short period of time (10 months) I've done better than 58% of my peers in the test 'Building Web Applications with React', with a score of 162/300.
 
-<img src="reactAssessment2.PNG" width="600" height="300" align="left" />
+<img src="reactAssessment2.PNG" width="600" height="300" align="center" />
 
 #### [![StackOverflow](https://img.shields.io/badge/StackOverflow-1-F27F33?logo=stackoverflow)](https://stackoverflow.com/users/11280354/psychobellic) [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/Psychobellic/actions)
 
