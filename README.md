@@ -14,6 +14,8 @@
 
 [<img src="Abstract-Vortex.svg" align="right" width="300px" height="300px" />](https://freesvg.org/abstract-vortex-33-variation-2)
 
+[![wakatime](https://wakatime.com/badge/user/f31599ac-f071-4eb2-95f6-17592283073a.svg)](https://wakatime.com/@f31599ac-f071-4eb2-95f6-17592283073a)
+
 #### Give me a hello on [Linkedin](https://www.linkedin.com/in/matheus-schiffer-rossetto-4467b438/)
 
 #### And pay me a visit at [mschiffer.com](https://www.mschiffer.com)
