@@ -2,6 +2,8 @@
 
 ### My name is **Matheus Schiffer**.
 
+#### I'm a brazilian Full Stack Jr Developer.
+
 #### :octocat: - Studying and practicing **<img src="React.svg" width="48px" height="48px"/>[React](https://www.reactjs.org), <img src="next.svg" width="48px" height="48px" /> [Next.js](https://nextjs.org/), <img src="Typescript.svg" width="32px" height="32px" /> [TypeScript](https://www.typescriptlang.org/) and <img src="SassLogo.svg" width="32px" height="32px" /> [Sass](https://sass-lang.com/)** since january 2021.
 
 #### :electron: - Studying and practicing **<img src="PHP.svg" width="32px" height="32px"/>[PHP](https://www.php.net/), <img src="Laravel.svg" width="32px" height="32px" /> [Laravel](https://laravel.com/), <img src="dart.svg" width="32px" height="32px" /> [Dart](https://dart.dev/) and <img src="flutter.svg" width="32px" height="32px"  /> [Flutter](https://flutter.dev/)** since february 2022.
