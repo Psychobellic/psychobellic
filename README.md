@@ -6,7 +6,7 @@
 
 <img src="reactAssessment2.PNG" width="600" height="300" align="center" />
 
-#### :electron: - Studying and practicing **<img src="PHP.svg" width="48px" height="48px"/>[PHP](https://www.php.net/), <img src="Laravel.svg" width="48px" height="48px" /> [Laravel](https://laravel.com/), <img src="Dart.svg" width="32px" height="32px" /> [Dart](https://dart.dev/) and <img src="Flutter.svg" width="32px" height="32px" /> [Flutter](https://flutter.dev/)** since february 2022.
+#### :electron: - Studying and practicing **<img src="PHP.svg" width="48px" height="48px"/>[PHP](https://www.php.net/), <img src="Laravel.svg" width="48px" height="48px" /> [Laravel](https://laravel.com/), <img src="dart.svg" width="32px" height="32px" /> [Dart](https://dart.dev/) and <img src="flutter.svg" width="32px" height="32px" /> [Flutter](https://flutter.dev/)** since february 2022.
 
 [![wakatime](https://wakatime.com/badge/user/f31599ac-f071-4eb2-95f6-17592283073a.svg)](https://wakatime.com/@f31599ac-f071-4eb2-95f6-17592283073a)
 
