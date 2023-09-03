@@ -2,7 +2,7 @@
 
 ### My name is **Matheus Schiffer**.
 
-#### I'm a brazilian Full Stack Jr Developer.
+#### I'm a brazilian Full Stack Developer.
 
 [![wakatime](https://wakatime.com/badge/user/f31599ac-f071-4eb2-95f6-17592283073a.svg)](https://wakatime.com/@f31599ac-f071-4eb2-95f6-17592283073a)
 
